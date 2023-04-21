@@ -1,38 +1,27 @@
-# create-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+TOKENEYES LABS - FINAL PROJECT
+## 🔗 Links
+Vercel: https://final-project-tokeneyes-labs.vercel.app/
 
-## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Acknowledgements
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+ - https://www.youtube.com/watch?v=2OnJYCXJPK4&t=2351s (Skeleton UI Help)
+ - https://www.youtube.com/watch?v=hEfbFyxb8ek (How I Found out about Skeleton)
+ - https://nerdcave.com/tailwind-cheat-sheet (Tailwind Cheatsheet)
+ - https://www.skeleton.dev/docs/get-started (Skeleton Docs)
+ - https://www.chartjs.org/docs/latest/ (Chart Js Docs)
+ - https://www.youtube.com/watch?v=JvYK-X2Tf8E&t=1244s (Chart Js Video for Line Graphs)
+ - https://cryptologos.cc/ (Crypto Logo's)
+ - https://www.youtube.com/watch?v=Tx_cc0AruRI (Crypto Price Checker)
+ - https://docs.ethers.org/v5/ (Ether's Js)
+ - https://metamask.io/ (Metamask)
+ 
 
-## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
-```bash
-npm run dev
+## Authors
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+- [@cordellec](https://github.com/cordellec)
 
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
